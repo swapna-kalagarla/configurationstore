@@ -1,7 +1,0 @@
-keys:
-  shared: abcdprod
-  secret: 11223344
-
-iam:
-  url: https://iam.premises.philips.com
-  username: testuser@philips.com 

@@ -1,0 +1,5 @@
+keys:
+  shared: 
+    - abcdprod
+  secret:
+    - 11223344

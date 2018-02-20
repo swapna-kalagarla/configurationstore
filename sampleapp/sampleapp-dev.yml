@@ -1,6 +1,0 @@
-iam:
-  url: https://iam.premises.philips.com
-  username: testuser@philips.com
-
-audit:
-  url: https://audit.premises.philips.com

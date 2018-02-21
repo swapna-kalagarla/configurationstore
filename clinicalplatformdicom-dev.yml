@@ -1,13 +1,3 @@
-dicomweb:
-  iam:
-    v1.0:
-      url: https://iamdev.premises.philips.com
-      username: testcp@philips.com
-      sharedkey: aa112
-  qido:
-    v1.0:
-      storepath: /usr/hostname
-  wado:
-    v1.1:
-      writepath: /var/lib/dicom
+stow:
+  url: http://stowurl.premises.philips.com
 	  

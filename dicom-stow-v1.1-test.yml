@@ -1,7 +1,3 @@
-iam:
-  url: https://iam.premises.philips.com
-  username: testuser1@philips.com
-
-audit:
-  url: https://audit.premises.philips.com
+stow:
+  serverurl: https://dicom.premises.philips.com
   

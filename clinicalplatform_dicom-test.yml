@@ -1,0 +1,14 @@
+dicomweb:
+  iam:
+    v1.0:
+      url: https://iamtest.premises.philips.com
+      username: testcp@philips.com
+      sharedkey: aa112
+      secretkey: 12345
+  qido:
+    v1.0:
+      storepath: /usr/hostname
+  wado:
+    v1.1:
+      writepath: /var/lib/dicom
+	  

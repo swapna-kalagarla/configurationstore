@@ -1,7 +1,14 @@
-iam:
-  url: https://iam.premises.philips.com
-  username: testuser1@philips.com
+v1.0:
+  iam:
+    url: https://iam.hsdp.philips.com
+    username: testuser1@philips.com
+  audit:
+    url: https://audit.premises.philips.com
 
-audit:
-  url: https://audit.premises.philips.com
+v1.1:
+  iam:
+    url: https://iam.premises.philips.com
+    username: testuser1@philips.com
+  audit:
+    url: https://audit.premises.philips.com
   

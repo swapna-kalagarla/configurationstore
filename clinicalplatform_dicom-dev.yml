@@ -4,7 +4,6 @@ dicomweb:
       url: https://iamdev.premises.philips.com
       username: testcp@philips.com
       sharedkey: aa112
-      secretkey: 12345
   qido:
     v1.0:
       storepath: /usr/hostname
